@@ -11,6 +11,7 @@
     * [Fathom](https://usefathom.com/) - Fathom, simple analytics for bloggers & businesses
   * Checklist
     * [GDPR Checklist](https://gdprchecklist.io) - The GDPR Compliance Checklist - This is a basic checklist you can use to harden your GDPR compliancy.
+    * [PolicyForge](https://policyforge-one.vercel.app) - Free privacy policy generator with GDPR compliance checker. Generates policies, terms of service, and cookie policies. Includes a 10-point compliance scanner.
   * Maps
     * [Leaflet.js](http://leafletjs.com/) - An open-source JavaScript library for mobile-friendly interactive maps. Good replacement for Google Maps. 
     * [Mapbox](https://www.mapbox.com/) - A complete SDK to build Maps, Search and/or Navigation system.
@@ -30,4 +31,3 @@
 ## What is GDPR ?
 
 The General Data Protection Regulation is a new EU regulation enforced since 25 May 2018.
-
